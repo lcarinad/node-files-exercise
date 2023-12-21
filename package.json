@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lcarinad/node-files-exercise/issues"
   },
-  "homepage": "https://github.com/lcarinad/node-files-exercise#readme"
+  "homepage": "https://github.com/lcarinad/node-files-exercise#readme",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
 }

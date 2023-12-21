@@ -1,4 +1,5 @@
 const fs = require("fs");
+
 const filePath = process.argv[2];
 function cat(path) {
   console.log("Reading file at path:", path);
@@ -10,4 +11,5 @@ function cat(path) {
     console.log("FILE READS:", data);
   });
 }
+
 cat(filePath);
