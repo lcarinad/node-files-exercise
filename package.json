@@ -1,0 +1,19 @@
+{
+  "name": "node-files-exercise",
+  "version": "1.0.0",
+  "description": "exercise for intro to node unit",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcarinad/node-files-exercise.git"
+  },
+  "author": "lauren delago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcarinad/node-files-exercise/issues"
+  },
+  "homepage": "https://github.com/lcarinad/node-files-exercise#readme"
+}
